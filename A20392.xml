@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue or speaking together of two personages of the which, the one is the well willing comminalitie, and the other the noble and moste puyssant prince, my Lorde the Duke of Aniou Our most redoubted lord. [et]c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1582</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20392</idno>
+            <idno type="STC">STC 6804</idno>
+            <idno type="STC">ESTC S108254</idno>
+            <idno type="EEBO-CITATION">99843926</idno>
+            <idno type="PROQUEST">99843926</idno>
+            <idno type="VID">8691</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20392)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 8691)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 528:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue or speaking together of two personages of the which, the one is the well willing comminalitie, and the other the noble and moste puyssant prince, my Lorde the Duke of Aniou Our most redoubted lord. [et]c.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Thomas Purfoote, dwelling in newgate market, and are to be sold at his shop ouer against S. Sepulchers Church,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1582.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Formerly also STC 6803.</note>
+                  <note>Signatures: A.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anjou, François, --  duc d', 1554-1584 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  Wars of Independence, 1556-1648.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:8691:1" rendition="simple:additions"/>
+            <pb facs="tcp:8691:1"/>
+            <p>¶ A Dialogue or ſpea<g ref="char:EOLhyphen"/>king together of two Perſo<g ref="char:EOLhyphen"/>nages of the which, the one is the Well willing Comminaltie, and the other the Noble and moſte puyſſant Prince, my Lorde the Duke of Aniou.</p>
+            <p>OVR MOST REDOVBTED LORD. &amp;c.</p>
+            <p>Jmprinted at London, by Thomas Pur<g ref="char:EOLhyphen"/>foote, dwelling in newgate market, and are to be ſold at his ſhop ouer againſt S. Sepul<g ref="char:EOLhyphen"/>chers Church. 1582.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:8691:2"/>
+            <pb facs="tcp:8691:2"/>
+            <sp>
+               <speaker>The well willing Comminaltie.</speaker>
+               <p>
+                  <seg rend="decorInit">M</seg>Oſt gracious lord conſide<g ref="char:EOLhyphen"/>ring that the gouernment of countries hath bene al<g ref="char:EOLhyphen"/>wayes eſteemed not onely amongſt the Philoſophers but alſo amongſt all nati<g ref="char:EOLhyphen"/>ons, to be a matter of great waight and impor<g ref="char:EOLhyphen"/>tance, ſpecially when as a Prince and Gouernour doth faythfully attende on the ſame. Therefore now that we haue conceiued ſuche hope of your highnes, we haue bene moued firſtly in all reuerence to ſalute your highnes, and thereafter as true ſubiectes to preſent and ſhewe all obedience.</p>
+            </sp>
+            <sp>
+               <speaker>My Lord the Duke.</speaker>
+               <p>
+                  <hi>My louing friendes I thanke you hartely for the loue and kindnes which you doe ſhewe vnto me. And alſo do promiſe neuer to fruſtrate you, nor make any default of the duetifull good con<g ref="char:EOLhyphen"/>fidence which ye do beare to my perſon.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The well willing Comminaltie.</speaker>
+               <p>We looke for nothing elſe of your highnes, but for the office of a good Prince. Which is to protect and defend his ſubiectes from all wrong, outrage, and violence. And to loue them as the father loueth his children, and the ſhepeheard his ſheepe, which doth venter his lyfe for to defend them.</p>
+            </sp>
+            <sp>
+               <speaker>My Lord the Duke.</speaker>
+               <pb facs="tcp:8691:3"/>
+               <p>
+                  <hi>My friendes you ſpeake very well and I will al<g ref="char:EOLhyphen"/>ſo feruently endeuour my ſelfe to the ſame, for I hope euen as you ſhall find me alwayes a benigne and faythfull Gouernour, that I lykewiſe ſhall haue you obedient ſubiects, for like as the father is bound to loue his children, and the ſhepheard his ſheepe, euen ſo the ſhepe likewiſe are bound to follow their ſhepeheard and ſhew him obedi<g ref="char:EOLhyphen"/>ence.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The well willing Comminaltie.</speaker>
+               <p>Your highnes ſhall be hereof ynough aſſured ha<g ref="char:EOLhyphen"/>uing read ouer our auncient Conſequences and Chronicles. Wherein euery where is to be founde the greate affection which we naturally do beare to oure lawfull Princes and Lordes. But in caſe your highnes did vouchſafe to heare vs, it woulde not ſeeme vnto vs to be inconuenient, (becauſe your highnes ſhoulde haue knowledge of all thinges, which is mooſt needfull for well to adminiſter the gouernement of countries,) that we nowe ſpeaking togeather, might briefly diſcourſe or run ouer the eſtate of theſe our lowe countries, and the ſumme of things which theirin be paſſed ſince the beginning of the troubles vntill now.</p>
+            </sp>
+            <sp>
+               <speaker>My Lord the Duke.</speaker>
+               <p>
+                  <hi>My louing friendes, I am very well pleaſed to heare the ſame and that more is, I thinke it who<g ref="char:EOLhyphen"/>ly neceſſary, to haue knowledge thereof. Bycauſe we might thereby in all thinges deale the more circu<g ref="char:cmbAbbrStroke">̄</g>ſpectly, to the welfare of the countrie, and
+<pb facs="tcp:8691:3"/>the ſaluation of vs all. And therefore I requeſte you in no wiſe, to hide from me the knowledge of ſuch thinges.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The well willing Comminaltie.</speaker>
+               <p>Seeing that your highnes doth requeſte this of vs, we will gladly do the ſame, thanking the al<g ref="char:EOLhyphen"/>mighty god that it hath pleaſed him to ſend vs your highnes hence forward to protect and make vs free from the tyranny, intended to be brought vppon vs by our enemyes. Your highnes muſt firſtly vnder<g ref="char:EOLhyphen"/>ſtand that the king of ſpayne after the deceſe of the Emperour Charles the firſt of worthy memory. Of whom he hath receaued all theſe Lowe countries, forgetting the ſeruices, which aſwel his Lord and father as alſo he himſelf had receaued of theſe coun<g ref="char:EOLhyphen"/>tries and the inhabitants of the ſame, wherby ſpe<g ref="char:EOLhyphen"/>cially the king of Spayne hath obtained ſo famous victories againſte his enemyes, that thereby his name and power became famous &amp; feared through all the world. And forgetting alſo the admonition which the Emperours maieſtie aforeſayd had gy<g ref="char:EOLhyphen"/>uen him at other times to the contrary he hath bent his eare, and gyuen credit to thoſe of the counſell of Spaine, being neare him which had conceyued in their hartes, and enuy againſt theſe countries and there freedomes. For that they might not haue any charge to gouerne in chefe countries, nor to beare the principall eſtates or offices as they did in the realmes of Naples, Sicilia, at Millan, in India, and at other places being vnder the kinges domi<g ref="char:EOLhyphen"/>nion,
+<pb facs="tcp:8691:4"/>whereof the moſte part of them knewe the ri<g ref="char:EOLhyphen"/>ches and power.</p>
+               <p>Which Counſell of Spayne or ſome of the prin<g ref="char:EOLhyphen"/>cipall thereof haue declared to this king at diuers times. That it was better for his Maieſties repu<g ref="char:EOLhyphen"/>tation, a newe to Conquere theſe countreys for to commaund thereouer fr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ely and abſolutely, (which is to playe the Tyrante according to his pleaſure) then to be driuen to gouerne vnder ſuch conditions, &amp; reſtrictions, as he hath ben fame to ſwere, in the acceptinge of the dominion of theſe countreys, Ac<g ref="char:EOLhyphen"/>cording to y<hi rend="sup">e</hi> which the king hath euer ſince ſought by all meanes to bring the aforeſaid countries from their ancient freedomes, and vnder a Tyrrannicall gouernment of the ſpani<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rds inte<g ref="char:cmbAbbrStroke">̄</g>ding firſtly vnder the cloke of religion to putte in newe biſhops in the cheefeſte and moſte principall Citties, giuing and endewing them with adiunction and incorporation of the moſte Richeſte Abbyes, and adioyning vnto them, nine <hi>Canonicos or Regulars,</hi> which ſhould be of his Counſel. Whereof the three ſhould haue ſpeci<g ref="char:EOLhyphen"/>all charg ouer the Inquiſition<g ref="char:punc">▪</g> By which incorpo<g ref="char:EOLhyphen"/>ration the ſaide Biſhops (which might haue beene aſwell ſtraungers as Natiue of the Countreys) haue had the firſt places &amp; voices in the aſſemblies of the eſtates of theſe countreys, And haue bene his creatures ready at his commaundement and deuo<g ref="char:EOLhyphen"/>tion: and ſhoulde haue brought in by the ſaide ad<g ref="char:EOLhyphen"/>ioyned <hi>Canonicos or Regulars,</hi> the ſpaniſhe <hi>Inquiſiti<g ref="char:EOLhyphen"/>on:</hi> Which hath alwayes bene (as it is manifeſte
+<pb facs="tcp:8691:4"/>vnto al men) ſo horrible and odious in theſe Coun<g ref="char:EOLhyphen"/>treys as the verye bondage it ſelfe: In ſuche wiſe that the ſaide Imperiall Maieſtie hauing at other times proponded the ſame to the countreis he did let it reſt again, by reaſon of the remonſtrations which were done againſt it vnto his Maieſtie, therin ſhew<g ref="char:EOLhyphen"/>ing the affection which he did beare to his ſubiects. But howbeit diuers remonſtrations which be done vnto the King by word of mouth as well by perti<g ref="char:EOLhyphen"/>culer Prouinces and Cities, as alſo by ſome of the principall Lordes of the Countrye, <hi>viz.</hi> The Lord of <hi>Montingni,</hi> and the Earle of <hi>Egmont,</hi> being ſent to <hi>Spayn</hi> to that purpoſe at ſundry times by the conſent of the Duches of <hi>Parma</hi> then Gouernant o<g ref="char:EOLhyphen"/>uer the ſame countreyes by the aduiſe of the Coun<g ref="char:EOLhyphen"/>ſell of Eſtates and Generalitie. And alſo that the ſayd king of <hi>Spayne</hi> had giuen vnto them by word of mouth good hope to prouide therein, according to their requeſt, he notwithſtanding to the contrarye thereof, ſhortly thereafter ſharpely by Letters vpon his indignation co<g ref="char:cmbAbbrStroke">̄</g>maunded to receiue the Biſhops, and to place the<g ref="char:cmbAbbrStroke">̄</g> in poſſeſſion of their Biſhoprickes, and incorporated Abbies, To giue the Inquiſition her courſe, where it thertofore had bene, and to fol<g ref="char:EOLhyphen"/>low the ordinance of the Counſel of Trent. Which was in many poyntes contrary to the Priuiledges of the aforeſaid countreis, which thing being come to the knowledge of the Comminaltie, hath with good reaſon cauſed occaſion of great commoſion a<g ref="char:EOLhyphen"/>mongſt them: and an alienation of the good affecti<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:8691:5"/>which they alwayes as good ſubiects haue born to the ſayde king of <hi>Spayne</hi> and his Predeceſſors. Specially conſidering that not onely hee did go a<g ref="char:EOLhyphen"/>bout to play the Tyrant vpo<g ref="char:cmbAbbrStroke">̄</g> their perſons &amp; goods, but alſo vpon their conſciences, of the whiche they thinke to be bound to giue reckoning, or make an<g ref="char:EOLhyphen"/>ſwere vnto no body but only vnto God.</p>
+               <p>For which cauſe, and for pitie of the ſayd Comi<g ref="char:EOLhyphen"/>naltie, the principall of the Countreys haue exhibi<g ref="char:EOLhyphen"/>ted a certaine Remonſtration in the yeare, <hi>1565.</hi> Requeſting that for to ſtill the Cominaltie, and preuent al Seditions, his Maieſtie ſhould aſſwage theſe poyntes, and ſpeciallye concerning the rigo<g ref="char:EOLhyphen"/>rous Inquiſition and puniſhment of the Religion, ſhewing therewith the loue and affection whiche he as a benigne Prince did beare vnto his ſubiectes, and for to notifie the ſame vnto the ſayde king of <hi>Spaine</hi> more nearer, and with more authoritie, and for to prooue how neceſſarye the ſame was for the welfare of the countreis, and to maintain the ſame in quietneſſe, to put or leaue of ſuch nouelties, and mittigate the rigor of the general Petition of the Place at in matters concerning the Religion at the requeſt of the ſayd Gouernant, Counſell of the E<g ref="char:EOLhyphen"/>ſtates, and of the generall eſtates of all the coun<g ref="char:EOLhyphen"/>treys, were ſent to <hi>Spaine</hi> as Ambaſſadors; The Marquis of <hi>Berghen,</hi> and the Lord of <hi>Montingni</hi> a<g ref="char:EOLhyphen"/>fore named, But in ſteede to giue attendaunce vnto them, and to prouide in the inconueniences whiche there had bene propounded, which by delaying of
+<pb facs="tcp:8691:5"/>the remedye in due tyme, according as the neede re<g ref="char:EOLhyphen"/>quired, did alreadie begin to appeare or ſhew them<g ref="char:EOLhyphen"/>ſelues almoſt in all Countreies, amongſt the Con<g ref="char:EOLhyphen"/>gregation, he by the alluring of the ſpaniſh Coun<g ref="char:EOLhyphen"/>ſell, hath cauſed the ſayd perſons which had made the aforeſaid Remonſtration, to be declared Rebels and to be guiltie of the crime of Treaſon, and conſequently to be punniſhed in bodye and goodes. And moreouer he thinking thereafter that the ſayd Countreys were wholy ſubdued vnder his ſubier<g ref="char:EOLhyphen"/>tion and Tirannye, by the power of the Duke of <hi>Alba,</hi> cauſed the ſayd Lords Ambaſſadors to be ap<g ref="char:EOLhyphen"/>prehended, murdered, and their goodes confiſked, contrary to all common orders, or lawes, whiche alwayes haue bene inuiolately obſerued amongeſt the moſt cruell and tyrannicall Princes. And how<g ref="char:EOLhyphen"/>beit that the greateſt troubles riſen in the ſayde Countries, by the dealing of the ſayde Gouernant and her Adherentes, in the ſayd yeare <hi>1566.</hi> was agayne pacified, and many driuen away whiche did vnderſtand the freedomes of the countreis, and the reſt oppreſſed and ſubdued in ſuch wiſe, that the king had no cauſe at all to oppreſſe the ſayd Coun<g ref="char:EOLhyphen"/>treis by force of Weapons, yet notwithſtanding, to haue ſuch an occaſion which the ſayde Spaniſhe counſell of long tyme had ſoughte and looked for, according to the ſame is playnelye declared by th<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> intercepted and detayned letters of <hi>Alana,</hi> the Am<g ref="char:EOLhyphen"/>baſſador of <hi>Spayne,</hi> reſident in <hi>Fraunce,</hi> being at that time written to the Duches of <hi>Parma</hi> for to anic<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>late
+<pb facs="tcp:8691:6"/>all the Priuiledge of the Countreis, and to go<g ref="char:EOLhyphen"/>uern the ſame according to hir wil, tirannically by the <hi>Spainiardes</hi> as the <hi>Jndians</hi> and the new conque<g ref="char:EOLhyphen"/>red Landes: He by the motion and counſell of the ſayd <hi>Spainiardes,</hi> ſhewing the little loue whiche he hare to his good ſubiectes, contrary to that whiche he as their Prince, Protector and good ſheapheard was bound to do. Hath ſent towards the ſaid coun<g ref="char:EOLhyphen"/>treyes for to oppreſſe them with a great armie the Duke of <hi>Alba,</hi> being infamous of hardneſſe and crueltie, &amp; one of the principall enemies of the cou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>trey: and being, for to be his Counſellors, accom<g ref="char:EOLhyphen"/>panyed with perſons of like nature and humoures. Which haue executed ſuch innumerable deale of cruelties and tirannies vpon theſe Countreis, that the ſame woulde bee to long before your highneſſe here to be rehearſed. And thereafter the great Co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>mandador (whome the King of <hi>Spaine</hi> did ſende to theſe Countreis after the Duke of <hi>Alba</hi> not for to amend ought, but for to proſecute the ſayde way of tiranny by a more ſecrete meane which haue com<g ref="char:EOLhyphen"/>pelled the other countreis whiche they kepte vnder the Spaniſh ſubiection with their Garriſons and built Caſtels, for to vſe all their perſons and might for to helpe to oppreſſe them, ſhewing notwithſtan<g ref="char:EOLhyphen"/>ding vnto the ſaid countreis which they did employ in their aſſiſtaunce as is aforeſayd, no more fauoure then if they had ben their very enimies, permitting that the <hi>Spainiardes</hi> vnder y<hi rend="sup">e</hi> cloke that they were in ſedition before the face of the great Co<g ref="char:cmbAbbrStroke">̄</g>mandador,
+<pb facs="tcp:8691:6"/>forcibly did enter into the Citie of <hi>Antwerpe</hi> there according to their diſcretion to waſte and ſpend for the ſpace of ſixe weekes at the charges of the Citi<g ref="char:EOLhyphen"/>zens, conſtrayning furthermore in the meane tyme the ſayde Citizens becauſe they ſhoulde be diſchar<g ref="char:EOLhyphen"/>ged of the violence of the ſame <hi>Spainiardes</hi> to fur<g ref="char:EOLhyphen"/>niſh to the payment of foure hundred thouſand gyl<g ref="char:EOLhyphen"/>drens, their demaunded wages, and alſo thereafter the ſpaniſhe ſouldiers vſing a greater boldnes haue aduaunced themſelues publikelye to take vp their weapons agaynſt the countrey, thinking firſtly to take the citie of <hi>Bruſſels,</hi> and in place of the ordina<g ref="char:EOLhyphen"/>ry reſidence of the Prince of the Countreis beeing there, to make their Caue of robberie, whiche thing not ſucceeding vnto them, they haue ouerthrowne the Citie of <hi>Aelst,</hi> and thereafter forciblye taken, ſacked, ſpoyled, murdered, and burned the Citie of <hi>Maestricht</hi> and <hi>Antwerpe,</hi> aforeſayd, and ſo hand<g ref="char:EOLhyphen"/>led the ſame that the moſt cruell and Tyrannicall enemies of the Countreis can not doe any more nor worſe, to the vnſpeakable domage not only of the inhabitants, but alſo almoſt of all the Nations of the world, which there had their wares and money. And howbeit that the ſayd <hi>Spainiardes</hi> by the coun<g ref="char:EOLhyphen"/>ſell of Eſtates (by whome at that tyme by reaſon of the death of the great Comandador was accepted the Gouernmente of the Countreis by the charge and commiſſion of the king of Spayne) were de<g ref="char:EOLhyphen"/>clared and publiſhed for enemies of the Land in the preſence of <hi>Ieronimo de Rhoda,</hi> for the outrage,
+<pb facs="tcp:8691:7"/>force and viole<g ref="char:cmbAbbrStroke">̄</g>ce which they vſed, yet the ſaid <hi>Rho<g ref="char:EOLhyphen"/>da</hi> by his owne authority, or elſe (as it is to be pre<g ref="char:EOLhyphen"/>ſumed) by vertue of ſome ſecret Inſtructio<g ref="char:cmbAbbrStroke">̄</g> which he might haue fro<g ref="char:cmbAbbrStroke">̄</g> 
+                  <hi>Spaine,</hi> had taken vpon him to be the Chiefe or heade of theſe <hi>Spainguartes</hi> and their aſſo<g ref="char:EOLhyphen"/>ciated, And without to haue reſpecte to theſe coun<g ref="char:EOLhyphen"/>ſell of Eſtates to vſe the name and authoritie of the king to counterfaite his ſeale, and to behaue him<g ref="char:EOLhyphen"/>ſelfe publikelye as gouernoure and Liefetenaunt of the king, whereby the eſtates were cauſed to make agreement at this time with my Lorde the Prince and eſtate of Hollande and Zexlande, whiche agree<g ref="char:EOLhyphen"/>ment hath bene approued and bene found to be good by the councell of the eſtates and lawfull Gouer<g ref="char:EOLhyphen"/>nours of the countreis, for ioyntly and with one ac<g ref="char:EOLhyphen"/>cord to ſet vppon and driue out of the countreys the <hi>Spainguartes</hi> as common enimies of the Countreys. Neuertheleſſe not pretermitting as good ſubiectes in the meane while with all dilligence by diuers humble remonſtrations to the king of <hi>Spaine</hi> and al fyt and poſſible meanes to ſue and beſeeke the king that hee taking regarde and conſideration on the troubles and inconueniences which alreadye were happened in theſe countreys, and yet were likelye to happen. It might pleaſe him to cauſe the <hi>Spain<g ref="char:EOLhyphen"/>guartes</hi> to departe out of the countreys and punniſh them which haue bene occaſion of the ſpoile and ru<g ref="char:EOLhyphen"/>ine of his principall Citties, and other vnſpeakea<g ref="char:EOLhyphen"/>ble outrages, which his ſubiects haue ſuſtained: for the conſolation of thoſe on whome the ſame had fal<g ref="char:EOLhyphen"/>len,
+<pb facs="tcp:8691:7"/>and for an example to other. But the king al<g ref="char:EOLhyphen"/>though hee fayned with wordes that the ſame was chaunced againſt his will and pleaſure, and that he did intend to puniſh their cheifes, and forthwith for the quietneſſe of the Countery to be willinge to ap<g ref="char:EOLhyphen"/>point ſome order with all fauoure as it beco<g ref="char:cmbAbbrStroke">̄</g>meth to a prince. Yet notwithſtanding the ſame he hath not onely cauſed Iuſtice nor puniſhement to be admini<g ref="char:EOLhyphen"/>ſtred againſt them, but contrary wiſe it doth ſuffici<g ref="char:EOLhyphen"/>ently by his deeds apeare, that al was don with his conſent, and by a proceading ſpaniſhe Counſell, as the ſame within a while after found out by certaine Intercepted, and detained letters, that by the king himſelfe had bene written to <hi>Rhodas,</hi> and other Captaines (being an occaſion of the aforeſaide miſ<g ref="char:EOLhyphen"/>cheife) that he not onely founde their doinges good but did praiſe them for the ſame and promiſed to make recompence, eſpecyally to the ſaid <hi>Rhodas,</hi> as hauing done a ſingular ſeruice vnto him, euen as alſo he hath ſhewen the ſame in dedes, at his return in <hi>Spaine,</hi> vnto him, and to all other his ſeruiters of the ſaide tyrranny, which haue bene in theſe coun<g ref="char:EOLhyphen"/>treis. And the kinge alſo at the ſame time (min<g ref="char:EOLhyphen"/>ding ſo muche the more to blind the eyes of his ſub<g ref="char:EOLhyphen"/>iects) did ſend as Gouernour in the ſaid countries, his baſtard brother <hi>Don Iohn D'auſtrya</hi> as one y<hi rend="sup">t</hi> was of his bloode who vnder the cloake that he did finde good and approue the agreement which was made at Gaunt, the promiſe to defend the Eſtates, the <hi>Spainguartes</hi> to departe and to cauſe y<hi rend="sup">e</hi> aucthors of
+<pb facs="tcp:8691:8"/>the violence and diſcordes which bee done in theſe countries to bee puniſhed, And to take order for the common quietneſſe of the countries and the anncient lyberties, did go avoute to deuide the ſaid Eſtates, and to ſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dewe the one countrey after the other, which thing euen as that which is fainedlye done and with outward ſhewe againſt, the meaning can<g ref="char:EOLhyphen"/>not longe continue ſecrete. So likewiſe the ſame breakinge out before he had fully compaſſed his In<g ref="char:EOLhyphen"/>tention. He could not performe the ſame according to his purpoſe, but he in ſteade of peace ſturred and rayſed vp newe warre, wherof hee did boaſt at his comming and which as yet doth indure, we hauing reſiſted the ſame, according that reaſon doth greatly moue vs thervnto. Here you haue heard moſt graci<g ref="char:EOLhyphen"/>ous Lord the principall matters which be chaunced in theſe our lowe Countreis during the time of the aforeſaid troubles and therfore we beſech you with all reuerence, That ſeeing youre entring is moſte hartily welcome vnto vs, it maye pleaſe you to re<g ref="char:EOLhyphen"/>ceaue vs in youre protection, and to execute at all ſines on vs the Office of a good Prince.</p>
+            </sp>
+            <sp>
+               <speaker>My Lord the Duke.</speaker>
+               <p>
+                  <hi>Therof my louing friendes you nede not in a<g ref="char:EOLhyphen"/>ny wiſe to doubt as long at it ſhall pleaſe the al<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ightie God to graunt me his grace.</hi>
+               </p>
+               <p>
+                  <hi>The well willing Comminaltie.</hi>
+               </p>
+               <pb facs="tcp:8691:8"/>
+               <p>We beſech the almighty God that it may pleaſe him here vnto to preſerue your highnes, and to grant vs togeather much ioy, and ad<g ref="char:EOLhyphen"/>uauncement, that we may ſpedely ſee the enemy conquered by our handes.</p>
+            </sp>
+         </div>
+         <trailer>Finis Coronat opus.</trailer>
+      </body>
+   </text>
+</TEI>
